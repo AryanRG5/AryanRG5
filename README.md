@@ -1,16 +1,15 @@
-## Hi there 👋
+![Intro](./assets/hero.svg?v=1)
 
-<!--
-**AryanRG5/AryanRG5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About](./assets/about-life.svg?v=1)
 
-Here are some ideas to get you started:
+![Stack](./assets/stack.svg?v=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ID](./assets/id-dashboard.svg?v=1)
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| **Digital Ahsan** | Online digital-products store — co-owned and built by me, running since 2021 |
+| **Anime Explained** | Anime content project — edits, stories and community |
+| **Search Growth Lab** | SEO and content-growth experiments |
